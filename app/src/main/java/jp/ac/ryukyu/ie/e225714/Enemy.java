@@ -40,7 +40,7 @@ public class Enemy {
     }
 
     /**
-     * 自身へ攻撃されたときのダメージ処理をするメソッド。
+    cc
      * 指定されたダメージを hitPoint から引き、死亡判定を行う。
      * @param damage 受けたダメージ
      */
